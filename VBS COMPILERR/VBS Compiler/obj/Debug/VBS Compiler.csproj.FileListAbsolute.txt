@@ -1,0 +1,12 @@
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\bin\Debug\VBS Compiler.exe.config
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\bin\Debug\VBS Compiler.exe
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\bin\Debug\VBS Compiler.pdb
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\bin\Debug\FastColoredTextBox.dll
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\obj\Debug\VBS Compiler.csproj.AssemblyReference.cache
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\obj\Debug\VBS_Compiler.Form1.resources
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\obj\Debug\VBS_Compiler.Properties.Resources.resources
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\obj\Debug\VBS Compiler.csproj.GenerateResource.cache
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\obj\Debug\VBS Compiler.csproj.CoreCompileInputs.cache
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\obj\Debug\VBS Compiler.csproj.CopyComplete
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\obj\Debug\VBS Compiler.exe
+C:\Users\avtar\source\repos\VBS Compiler\VBS Compiler\obj\Debug\VBS Compiler.pdb
